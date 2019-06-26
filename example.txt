@@ -1,3 +1,4 @@
 user 2: trying to create a conflict from user 2 , branch 1
 user1:written by user one from master branch
+user 2: i am user 2
 
